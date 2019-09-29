@@ -223,3 +223,12 @@ The bill calls for a notified date (notified date should be less than 12 months 
 While there are still some issues to sort out, DPR Bill - 2018 is a great step for India to protect its subjects interests. There are definitely issues that overkill businesses, which needs to be sorted out through Industry consultations before the act is passed.  Nevertheless GDPR has established a great standard for other countries to follow & Improvise on.
 
 Hoping for a better Data protection regulation that protects the interests of principals, at the same time dont compromise the interests of businesses & states alike.
+
+### References
+While i tried to do the complete draft on my own understanding upon reading the legislation docs, i also referred to multiple other documents that added to my understanding. Referencing them here.
+- [Personal Data Protection Bill 2018](https://meity.gov.in/writereaddata/files/Personal_Data_Protection_Bill,2018.pdf)
+- [Reasonable security practices and procedures and sensitive personal data or information](https://www.wipo.int/edocs/lexdocs/laws/en/in/in098en.pdf)
+- [GDPR Regulation](https://gdpr-info.eu/chapter-1/)
+- [Privacy by Design principles](https://medium.com/searchencrypt/7-principles-of-privacy-by-design-8a0f16d1f9ce)
+- [Intro to Privacy by Design - AWS Online Tech talk](https://www.youtube.com/watch?v=5x80yPCjFwQ)
+- [PRS India website that has an easily consumable comparison with GDPR](https://www.prsindia.org/billtrack/draft-personal-data-protection-bill-2018)
